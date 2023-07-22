@@ -1,0 +1,224 @@
+[
+  {
+    "collegeImage": "https://i.ibb.co/r67Lk0x/images-1.jpg",
+    "collegeName": "Adams State College",
+    "admissionDates": {
+      "fall": "September 2023",
+      "spring": "January 2024"
+    },
+    "events": {
+      "eventName": "Orientation Day",
+      "date": "August 15, 2023",
+      "location": "Campus Auditorium"
+    },
+    "researchHistory": {
+      "researcOneYear": "2019",
+      "researcOne": "Published groundbreaking research on renewable energy.",
+      "researcTwoyear": "2021",
+      "researcTwo": "Received prestigious research grant for cancer cure studies."
+    },
+    "researchWorks": {
+      "title": "Study on Climate Change",
+      "authors": ["John Smith", "Emma Johnson"],
+      "publication": "Environmental Science Journal",
+      "publicationDate": "June 2022"
+    },
+    "teams": ["Football", "Basketball", "Volleyball"],
+    "facilities": ["Sports Complex", "Indoor Gymnasium"],
+    "admissionProcess": {
+      "one": "Step 1: Submit Application",
+      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "two": "Step 2: Entrance Exam",
+      "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
+      "three": "Step 3: Interview",
+      "descriptionThree": "Qualified candidates will be called for a personal interview.",
+      "four": "Step 4: Admission Decision",
+      "descriptionFour": "Final admission decisions will be communicated via email/letter."
+    }
+  },
+  {
+    "collegeImage": "https://i.ibb.co/b2zJ5J8/1600409205-colleges-in-usa.jpg",
+    "collegeName": "Academy of Art College",
+    "admissionDates": {
+      "fall": "November 2023",
+      "spring": "February 2024"
+    },
+    "events": {
+      "eventName": "Intercollegiate Football Championship",
+      "date": "October 5-7, 2023",
+      "location": "College Sports Complex"
+    },
+    "researchHistory": {
+      "researcOneYear": "2019",
+      "researcOne": "Published groundbreaking research on renewable energy.",
+      "researcTwoyear": "2021",
+      "researcTwo": "Received prestigious research grant for cancer cure studies."
+    },
+    "researchWorks": {
+      "title": "Study on Climate Change",
+      "authors": ["John Smith", "Emma Johnson"],
+      "publication": "Environmental Science Journal",
+      "publicationDate": "June 2022"
+    },
+    "teams": ["Football", "Basketball", "Volleyball"],
+    "facilities": ["Sports Complex", "Indoor Gymnasium"],
+    "admissionProcess": {
+      "one": "Step 1: Submit Application",
+      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "two": "Step 2: Entrance Exam",
+      "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
+      "three": "Step 3: Interview",
+      "descriptionThree": "Qualified candidates will be called for a personal interview.",
+      "four": "Step 4: Admission Decision",
+      "descriptionFour": "Final admission decisions will be communicated via email/letter."
+    }
+  },
+  {
+    "collegeImage": "https://i.ibb.co/yNx7rVx/harvard-0-0.jpg",
+    "collegeName": "Bethany Lutheran College",
+    "admissionDates": {
+      "fall": "December 2023",
+      "spring": "March 2024"
+    },
+    "events": {
+      "eventName": "Basketball Tournament",
+      "date": "December 15-17, 2023",
+      "location": "Indoor Gymnasium"
+    },
+    "researchHistory": {
+      "researcOneYear": "2019",
+      "researcOne": "Published groundbreaking research on renewable energy.",
+      "researcTwoyear": "2021",
+      "researcTwo": "Received prestigious research grant for cancer cure studies."
+    },
+    "researchWorks": {
+      "title": "Study on Climate Change",
+      "authors": ["John Smith", "Emma Johnson"],
+      "publication": "Environmental Science Journal",
+      "publicationDate": "June 2022"
+    },
+    "teams": ["Football", "Basketball", "Volleyball"],
+    "facilities": ["Sports Complex", "Indoor Gymnasium"],
+    "admissionProcess": {
+      "one": "Step 1: Submit Application",
+      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "two": "Step 2: Entrance Exam",
+      "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
+      "three": "Step 3: Interview",
+      "descriptionThree": "Qualified candidates will be called for a personal interview.",
+      "four": "Step 4: Admission Decision",
+      "descriptionFour": "Final admission decisions will be communicated via email/letter."
+    }
+  },
+  {
+    "collegeImage": "https://i.ibb.co/ZmKysXn/corpus-christi-1600x0-c-default.jpg",
+    "collegeName": "Cardinal Stritch College",
+    "admissionDates": {
+      "fall": "July 2023",
+      "spring": "January 2024"
+    },
+    "events": {
+      "eventName": "Career Fair",
+      "date": "March 20, 2024",
+      "location": "Sports Complex"
+    },
+    "researchHistory": {
+      "researcOneYear": "2019",
+      "researcOne": "Published groundbreaking research on renewable energy.",
+      "researcTwoyear": "2021",
+      "researcTwo": "Received prestigious research grant for cancer cure studies."
+    },
+    "researchWorks": {
+      "title": "Study on Climate Change",
+      "authors": ["John Smith", "Emma Johnson"],
+      "publication": "Environmental Science Journal",
+      "publicationDate": "June 2022"
+    },
+    "teams": ["Football", "Basketball", "Volleyball"],
+    "facilities": ["Sports Complex", "Indoor Gymnasium"],
+    "admissionProcess": {
+      "one": "Step 1: Submit Application",
+      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "two": "Step 2: Entrance Exam",
+      "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
+      "three": "Step 3: Interview",
+      "descriptionThree": "Qualified candidates will be called for a personal interview.",
+      "four": "Step 4: Admission Decision",
+      "descriptionFour": "Final admission decisions will be communicated via email/letter."
+    }
+  },
+  {
+    "collegeImage": "https://i.ibb.co/1mR6cx8/images-2.jpg",
+    "collegeName": "Dharma Realm College",
+    "admissionDates": {
+      "fall": "August 2023",
+      "spring": "January 2024"
+    },
+    "events": {
+      "eventName": "Annual Cultural Fest",
+      "date": "November 10, 2023",
+      "location": "College Grounds"
+    },
+    "researchHistory": {
+      "researcOneYear": "2019",
+      "researcOne": "Published groundbreaking research on renewable energy.",
+      "researcTwoyear": "2021",
+      "researcTwo": "Received prestigious research grant for cancer cure studies."
+    },
+    "researchWorks": {
+      "title": "Study on Climate Change",
+      "authors": ["John Smith", "Emma Johnson"],
+      "publication": "Environmental Science Journal",
+      "publicationDate": "June 2022"
+    },
+    "teams": ["Football", "Basketball", "Volleyball"],
+    "facilities": ["Sports Complex", "Indoor Gymnasium"],
+    "admissionProcess": {
+      "one": "Step 1: Submit Application",
+      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "two": "Step 2: Entrance Exam",
+      "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
+      "three": "Step 3: Interview",
+      "descriptionThree": "Qualified candidates will be called for a personal interview.",
+      "four": "Step 4: Admission Decision",
+      "descriptionFour": "Final admission decisions will be communicated via email/letter."
+    }
+  },
+  {
+    "collegeImage": "https://i.ibb.co/YhVwkGk/images-3.jpg",
+    "collegeName": "Edward Waters College",
+    "admissionDates": {
+      "fall": "September 2023",
+      "spring": "January 2024"
+    },
+    "events": {
+      "eventName": "Orientation Day",
+      "date": "August 15, 2023",
+      "location": "Campus Auditorium"
+    },
+    "researchHistory": {
+      "researcOneYear": "2019",
+      "researcOne": "Published groundbreaking research on renewable energy.",
+      "researcTwoyear": "2021",
+      "researcTwo": "Received prestigious research grant for cancer cure studies."
+    },
+    "researchWorks": {
+      "title": "Study on Climate Change",
+      "authors": ["John Smith", "Emma Johnson"],
+      "publication": "Environmental Science Journal",
+      "publicationDate": "June 2022"
+    },
+    "teams": ["Football", "Basketball", "Volleyball"],
+    "facilities": ["Sports Complex", "Indoor Gymnasium"],
+    "admissionProcess": {
+      "one": "Step 1: Submit Application",
+      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "two": "Step 2: Entrance Exam",
+      "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
+      "three": "Step 3: Interview",
+      "descriptionThree": "Qualified candidates will be called for a personal interview.",
+      "four": "Step 4: Admission Decision",
+      "descriptionFour": "Final admission decisions will be communicated via email/letter."
+    }
+  }
+]
