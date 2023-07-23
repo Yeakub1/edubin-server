@@ -19,15 +19,15 @@
     },
     "researchWorks": {
       "title": "Study on Climate Change",
-      "authors": ["John Smith", "Emma Johnson"],
+      "authors": ["John Smith"," ,", "Emma Johnson"],
       "publication": "Environmental Science Journal",
       "publicationDate": "June 2022"
     },
-    "teams": ["Football", "Basketball", "Volleyball"],
-    "facilities": ["Sports Complex", "Indoor Gymnasium"],
+    "teams": ["Football", " ,", "Basketball", " ,", "Volleyball"],
+    "facilities": ["Sports Complex", " ,", "Indoor Gymnasium"],
     "admissionProcess": {
       "one": "Step 1: Submit Application",
-      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "descriptionOne": "Complete the online application form and submit all required documents.",
       "two": "Step 2: Entrance Exam",
       "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
       "three": "Step 3: Interview",
@@ -56,7 +56,7 @@
     },
     "researchWorks": {
       "title": "Study on Climate Change",
-      "authors": ["John Smith", "Emma Johnson"],
+      "authors": ["John Smith"," ,", "Emma Johnson"],
       "publication": "Environmental Science Journal",
       "publicationDate": "June 2022"
     },
@@ -64,7 +64,7 @@
     "facilities": ["Sports Complex", "Indoor Gymnasium"],
     "admissionProcess": {
       "one": "Step 1: Submit Application",
-      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "descriptionOne": "Complete the online application form and submit all required documents.",
       "two": "Step 2: Entrance Exam",
       "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
       "three": "Step 3: Interview",
@@ -93,7 +93,7 @@
     },
     "researchWorks": {
       "title": "Study on Climate Change",
-      "authors": ["John Smith", "Emma Johnson"],
+      "authors": ["John Smith"," ,", "Emma Johnson"],
       "publication": "Environmental Science Journal",
       "publicationDate": "June 2022"
     },
@@ -101,7 +101,7 @@
     "facilities": ["Sports Complex", "Indoor Gymnasium"],
     "admissionProcess": {
       "one": "Step 1: Submit Application",
-      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "descriptionOne": "Complete the online application form and submit all required documents.",
       "two": "Step 2: Entrance Exam",
       "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
       "three": "Step 3: Interview",
@@ -130,7 +130,7 @@
     },
     "researchWorks": {
       "title": "Study on Climate Change",
-      "authors": ["John Smith", "Emma Johnson"],
+      "authors": ["John Smith"," ,", "Emma Johnson"],
       "publication": "Environmental Science Journal",
       "publicationDate": "June 2022"
     },
@@ -138,7 +138,7 @@
     "facilities": ["Sports Complex", "Indoor Gymnasium"],
     "admissionProcess": {
       "one": "Step 1: Submit Application",
-      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "descriptionOne": "Complete the online application form and submit all required documents.",
       "two": "Step 2: Entrance Exam",
       "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
       "three": "Step 3: Interview",
@@ -167,7 +167,7 @@
     },
     "researchWorks": {
       "title": "Study on Climate Change",
-      "authors": ["John Smith", "Emma Johnson"],
+      "authors": ["John Smith"," ,", "Emma Johnson"],
       "publication": "Environmental Science Journal",
       "publicationDate": "June 2022"
     },
@@ -175,7 +175,7 @@
     "facilities": ["Sports Complex", "Indoor Gymnasium"],
     "admissionProcess": {
       "one": "Step 1: Submit Application",
-      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "descriptionOne": "Complete the online application form and submit all required documents.",
       "two": "Step 2: Entrance Exam",
       "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
       "three": "Step 3: Interview",
@@ -204,7 +204,7 @@
     },
     "researchWorks": {
       "title": "Study on Climate Change",
-      "authors": ["John Smith", "Emma Johnson"],
+      "authors": ["John Smith"," ,", "Emma Johnson"],
       "publication": "Environmental Science Journal",
       "publicationDate": "June 2022"
     },
@@ -212,7 +212,7 @@
     "facilities": ["Sports Complex", "Indoor Gymnasium"],
     "admissionProcess": {
       "one": "Step 1: Submit Application",
-      " descriptionOne": "Complete the online application form and submit all required documents.",
+      "descriptionOne": "Complete the online application form and submit all required documents.",
       "two": "Step 2: Entrance Exam",
       "descriptionTwo": "Appear for the entrance exam on the scheduled date.",
       "three": "Step 3: Interview",

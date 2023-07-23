@@ -25,8 +25,10 @@ async function run() {
     // await client.connect();
 
     const CollageCollection = client.db("edubinDB").collection("collage");
+    const admissionCollection = client.db("edubinDB").collection("admission");
+    const reviewCollection = client.db("edubinDB").collection("review");
 
-    // services data
+    // collage data
     app.get("/collage", async (req, res) => {
       const result = await CollageCollection.find().toArray();
       res.send(result);
@@ -38,7 +40,37 @@ async function run() {
       const selectCollage = await CollageCollection.findOne(query);
       res.send(selectCollage);
     });
-    
+
+    // myclass colletion
+    app.post("/admission", async (req, res) => {
+      const item = req.body;
+      const result = await admissionCollection.insertOne(item);
+      res.send(result);
+    });
+
+    app.get("/admission", async (req, res) => {
+      const result = await admissionCollection.find().toArray();
+      res.send(result);
+    });
+
+    app.get("/admission/:email", async (req, res) => {
+      console.log(req.params.email);
+      const result = await admissionCollection
+        .find({
+          email: req.params.email,
+        })
+        .toArray();
+      res.send(result);
+    });
+
+    // delete
+    app.delete("/admission/:id", async (req, res) => {
+      const id = req.params.id;
+      const quary = { _id: new ObjectId(id) };
+      const result = await admissionCollection.deleteOne(quary);
+      res.send(result);
+    });
+
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
     console.log(
